@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elad Zaiffer\\source\\repos\\Tal18.10.26 drone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9356FF98-85AE-8DB1-65A8-DBD57899C79D}|Tal18.10.26 drone\\Tal18.10.26 drone.csproj|c:\\users\\elad zaiffer\\source\\repos\\tal18.10.26 drone\\tal18.10.26 drone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9356FF98-85AE-8DB1-65A8-DBD57899C79D}|Tal18.10.26 drone\\Tal18.10.26 drone.csproj|solutionrelative:tal18.10.26 drone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elad Zaiffer\\source\\repos\\Tal18.10.26 drone\\Tal18.10.26 drone\\Program.cs",
+              "RelativeDocumentMoniker": "Tal18.10.26 drone\\Program.cs",
+              "ToolTip": "C:\\Users\\Elad Zaiffer\\source\\repos\\Tal18.10.26 drone\\Tal18.10.26 drone\\Program.cs",
+              "RelativeToolTip": "Tal18.10.26 drone\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T13:53:21.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
